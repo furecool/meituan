@@ -27,7 +27,7 @@
 
 
 ## - 預覽
-!(http://bluezyz.com/usr/uploads/2019/10/587669134.png)
+![01-商品页](http://bluezyz.com/usr/uploads/2019/10/587669134.png)
 
 ![02-优惠信息](http://bluezyz.com/usr/uploads/2019/10/2344939518.png)
 
