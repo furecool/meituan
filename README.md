@@ -6,7 +6,17 @@
 1. 課程簡介
 2. 課程安排
 `第 2 節： Vuejs`
+3. MVVM框架
+4. Vue以及Vue生態
+5. angular、react對比
+6. Vuejs核心思想
 `第 3 節： Vue-cli `
+7. Vue-cli簡介
+8. Vue-cli安裝
+9. 如何運行
+10. 專案檔案
+11.~14. webpack打包
+
 ### - 專案實戰
 ```bash
 第 4 節：準備
