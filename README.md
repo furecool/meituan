@@ -1,30 +1,20 @@
-# Vue 项目实战《美团外卖App》
+# Vue 《美團外賣》
 
-## - 课程说明
-使用Vue JS 2 + Webpack + Vue-router + Axios 构建App，组件化、模块化开发方式。从项目的计划阶段、需求分析、设计阶段、编码、测试、项目打包，了解项目从0到1的整个开发流程。
+## - 目錄
+### - 基礎介紹
+第 1 節：簡介
+第 2 節： Vuejs
+第 3 節： Vue-cli 
+### - 專案實戰
+第 4 節：準備
+第 5 節：骨架
+第 6 節： header
+第 7 節： goods
+第 8 節： food
+第 9 節： ratings
+第 10 節： seller
+第 11 節：專案編譯打包
 
-## - 课程优惠
-更多课程优惠信息内容: http://bluezyz.com/index.php/about.html
-
-## - 代码地址
-GitHub 地址: https://github.com/iphone3/meituan
-
-## - 环境说明【注意】
-`vue.js 2.x`
-
-`vue-cli 2.x`
-
-## - 项目运行
-``` bash
-# 1.1 安装vue-cli 【node.js版本是要大于6.x，如果版本过低的，请先更新node!】
-$ npm install -g vue-cli
-
-# 1.2 安装依赖 【切换的项目目录下】
-$ npm install
-
-# 1.3 启动项目
-# npm run dev
-```
 
 ## - 项目预览
 ![01-商品页](http://bluezyz.com/usr/uploads/2019/10/587669134.png)
