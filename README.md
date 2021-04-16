@@ -3,13 +3,19 @@
 ## - 目錄
 ### - 基礎介紹
 `第 1 節：簡介`
+
 1. 課程簡介
+
 2. 課程安排
 
 `第 2 節： Vuejs`
+
 3. MVVM框架
+
 4. Vue以及Vue生態
+
 5. angular、react對比
+
 6. Vuejs核心思想
 
 `第 3 節： Vue-cli `
