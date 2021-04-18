@@ -47,13 +47,14 @@ APP真實數據編寫程式碼
 ## - 學習安排
 ```
 開發移動端APP/
-學會元件化、模組化開發```
+學會元件化、模組化開發
+```
 
 ```
-vue-cli(基本架構)
-vue-router(路由管理)
-axios(數據通信)
-webpack(建構工具)
+Vue-cli(基本架構)
+Vue-router(路由管理)
+Axios(數據通信)
+Webpack(建構工具)
 ```
 
 
