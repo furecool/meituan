@@ -69,6 +69,9 @@ APP真實數據編寫程式碼
 
 
 ## - 預覽
+[Imgur](https://i.imgur.com/TPWAyjN.mp4)
+[Imgur](https://i.imgur.com/ra6iDex.mp4)
+
 ![01-商品页](http://bluezyz.com/usr/uploads/2019/10/587669134.png)
 
 ![02-优惠信息](http://bluezyz.com/usr/uploads/2019/10/2344939518.png)
