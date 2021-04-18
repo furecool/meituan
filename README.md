@@ -60,7 +60,7 @@ Webpack(建構工具)
 
 
 ## - 預覽
-[預覽1](https://i.imgur.com/ra6iDex.mp4)
+[元件拆分](https://i.imgur.com/ra6iDex.mp4)
 
-[預覽2](https://i.imgur.com/TPWAyjN.mp4)
+[購物車](https://i.imgur.com/TPWAyjN.mp4)
 
