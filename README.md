@@ -67,4 +67,4 @@ Webpack(建構工具)
 
 ![img](https://i.imgur.com/7m9DrN8.gif)
 
-!(http://bluezyz.com/usr/uploads/2019/10/587669134.png)
+![](http://bluezyz.com/usr/uploads/2019/10/587669134.png)
