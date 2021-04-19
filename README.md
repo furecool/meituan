@@ -65,5 +65,5 @@ Webpack(建構工具)
 [購物車功能](https://i.imgur.com/TPWAyjN.mp4)
 
 
-![Imgur](https://imgur.com/7m9DrN8)
+![img]https://i.imgur.com/7m9DrN8.gif[/img]
 
