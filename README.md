@@ -65,7 +65,6 @@ Webpack(建構工具)
 [購物車功能](https://i.imgur.com/TPWAyjN.mp4)
 
 
-![image](https://github.com/furecool/meituan/blob/master/1.gif)
+![元件架構](https://github.com/furecool/meituan/blob/master/1.gif)
 
-
-
+![購物車功能](https://github.com/furecool/meituan/blob/master/2.gif)
