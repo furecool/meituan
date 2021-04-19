@@ -63,8 +63,8 @@ Webpack(建構工具)
 
 元件架構
 
-![元件架構](https://github.com/furecool/meituan/blob/master/1.gif =700)
+![元件架構](https://github.com/furecool/meituan/blob/master/1.gif =100x100)
 
 購物車功能
 
-![購物車功能](https://github.com/furecool/meituan/blob/master/2.gif =700)
+![購物車功能](https://github.com/furecool/meituan/blob/master/2.gif =100x100)
