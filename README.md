@@ -64,3 +64,6 @@ Webpack(建構工具)
 
 [購物車功能](https://i.imgur.com/TPWAyjN.mp4)
 
+[元件架構](https://i.imgur.com/7m9DrN8.gif)
+
+[購物車功能](https://i.imgur.com/PEVfllS.gif)
