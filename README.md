@@ -1,4 +1,4 @@
-# Vue 電商網站
+# Vue 電商App
 
 來自網路課程 -- Vue.js 项目实战之美团外卖 (Vue JS 2+Webpack+Vue-router+ Axios)
 
