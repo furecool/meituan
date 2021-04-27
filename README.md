@@ -2,8 +2,6 @@
 
 來自網路課程 -- Vue.js 项目实战之美团外卖 (Vue JS 2+Webpack+Vue-router+ Axios)
 
-專案網址: https://lincheyin.000webhostapp.com/dist
-
 ## - 簡介
 
 以美團外賣APP的核心模塊商家頁為核心
@@ -70,3 +68,5 @@ Webpack(建構工具)
 購物車功能
 
 ![購物車功能](https://github.com/furecool/meituan/blob/master/2.gif)
+
+專案網址: https://lincheyin.000webhostapp.com/dist
